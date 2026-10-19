@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.alpeykov.gasconsumption",
+        "sha256_cert_fingerprints": ["04:10:14:7F:C1:16:50:10:CC:43:22:4B:81:FD:97:B2:82:B0:DD:4D:D0:9B:4F:1B:2A:CB:75:BC:38:FE:FA:15"]
+      }
+    }]
