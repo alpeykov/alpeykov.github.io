@@ -1,8 +1,11 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.alpeykov.gasconsumption",
-        "sha256_cert_fingerprints": ["04:10:14:7F:C1:16:50:10:CC:43:22:4B:81:FD:97:B2:82:B0:DD:4D:D0:9B:4F:1B:2A:CB:75:BC:38:FE:FA:15"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.alpeykov.gasconsumption",
+    "sha256_cert_fingerprints": [
+      "BC:1B:16:2E:DA:8C:9B:25:E1:89:8C:DC:8A:C0:DB:ED:3E:70:C7:E1:3E:04:AE:3F:27:F3:DD:2B:64:73:E4:72",
+      "04:10:14:7F:C1:16:50:10:CC:43:22:4B:81:FD:97:B2:82:B0:DD:4D:D0:9B:4F:1B:2A:CB:75:BC:38:FE:FA:15"
+    ]
+  }
+}]
